@@ -74,6 +74,11 @@ Here’s an overview of the repository:
 python detect_plates.py --input images/car.jpg --output output/detected_plate.jpg
 
 Expected output: An image with the number plate boxed and the extracted text printed (e.g., "ABC 1234").
+Expected output: An image with the number plate boxed and the extracted text printed (e.g., "ABC 1234").
+![Input Image](1.jpg)
+![Detected Plate](reults.png)
+
+2. Process a video:
 
 2. Process a video:
 
